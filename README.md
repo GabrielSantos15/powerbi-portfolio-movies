@@ -47,7 +47,8 @@ O objetivo é transformar dados brutos em **insights visuais claros**, com naveg
 
 ## ▶️ Demonstração
 
-📹 Vídeo demonstrativo do dashboard disponível no LinkedIn.
+📹 Vídeo demonstrativo do dashboard disponível no LinkedIn:  
+[Assistir à demonstração](https://www.linkedin.com/posts/gabrielsantos1509_learning-tech-datascience-activity-7415089440890699776-9wCH)
 
 ---
 
