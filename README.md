@@ -6,7 +6,23 @@ Os dados foram **coletados via API do TMDB (The Movie Database)** utilizando **P
 
 O objetivo é transformar dados brutos em **insights visuais claros**, com navegação simples e filtros interativos que apoiam a análise e a tomada de decisão.
 
----
+<div align="center">
+        <img src="https://github.com/user-attachments/assets/915af5c8-bce6-47a1-8af3-f947bdc16aa6" width="100%" />
+</div>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github.com/user-attachments/assets/0972244c-5159-4578-9d7a-2c0f89c26ea2" width="100%" />
+      </td>
+      <td width="50%">
+  <img src="https://github.com/user-attachments/assets/3351c838-9788-47ef-8149-785a028b9376" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 Principais Análises
 
